@@ -55,7 +55,7 @@ def main() -> int:
 
     encoded_name = package_name + ".b64"
     encoded_path = args.output / encoded_name
-    encoded_path.write_text(base64.b64encode(package_path.read_bytes()).decode("ascii") + "\n", encoding="ascii")
+    encoded_path.write_text(base64.b64encode(package_path.read_bytes()).decode("ascii"), encoding="ascii")
     manifest = {
         "version": APP_VERSION,
         "package_url": RELEASE_PREFIX + encoded_name,
