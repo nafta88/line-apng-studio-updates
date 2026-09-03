@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+work/
+release-private/
+*.key
+*.pem
+!update_public.pem
+*.pyc
