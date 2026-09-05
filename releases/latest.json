@@ -1,7 +1,7 @@
 {
-  "version": "0.5.0",
-  "package_url": "https://raw.githubusercontent.com/nafta88/line-apng-studio-updates/main/releases/line-apng-studio-0.5.0.zip.b64",
-  "sha256": "7adae5b7d019d8ec462756ea5993e9f2b9c6df749fe03fda6a8f695758bb061e",
-  "notes": "32種類の輪郭、64種類の動く装飾、連動プレビュー、安全なローカル処理と署名付き自動更新に対応しました。",
-  "signature": "O9/s3YtO3Geg7Wv3vooRDLLDzIz/rnkLe/5KRZBKgyr46wx+ppiKyExqNluh+u3UCunNxUv6/nV1Ju/w6l6GqxTUFPM6JDm4uXkZB1TNzM/rDfoLhHm9xkKgXIyTepTXaDn9ufouw72j5eDzV4dBkh7PmBcoS5VRrqtFmDn/kFs3ds+zPrQr8ZN8TQwNskeiclGO6Kn//qJbHc5lEYFsHEeYqD95F8BHWCYO9Ifib7IURFje/1obCYh3es9Lm7sOowvIGGc7kfZI7IDUwjJYU47xSX+hvH6GiC1uszrph0flFrRxm33zMSKBlnc8Ta69WpP2Co4UmJVBIL4pL1J2u/0QgWBTm5rvIi/SifHbCNKMCIXSzRi8JHcuiG8p/IcWsbqNbjr4cxTnrbq7iPI8jjCiFVgTIP6IqTWyD9r9PpdGkeFLpkEMXyXoDBjbStQWu5sNsBDD0oTZAcvE8qo4u5vfgtnLdw9JUYI3It3UMUFuiutxWla3GYgJ0OejpTv2"
+  "version": "0.6.0",
+  "package_url": "https://raw.githubusercontent.com/nafta88/line-apng-studio-updates/main/releases/line-apng-studio-0.6.0.zip.b64",
+  "sha256": "c7e7c55b53c131b9b373f19a7af4c2617c8ad382b074f320fce8a2ac0cd17cdb",
+  "notes": "動画の縦横比を修正し、12種類の文字デザイン、5種類の文字の動き、書体・位置・大きさの調整と連動プレビューを追加しました。",
+  "signature": "Q6J9a//9k/C7zXtT5N9Je413aZ+wVbYD1OcCBRHpFd92veZIRXZyWaZfKoBjH5CLhHO1/c0O87AHAdDAlBf1ysFc2jEHqWfYoW5CmK+TeoHGxIBfKoHlfG6olxnHIVM5wdjJzugvK7C9JgXh/isE/UxlE2PqZR+3pSQc16Yt3ksN9sL//SioRB3ins3out7E/UzpMsSC+XrL8PxTUSv0kLGZu8N9TUQo+xAGA5+/kSEFp7psER5GW9BTfQnywiSDf4A1diOWomguSb8fjMqJmp8BfAFcarhwZgmJAd2IiQIXlTHyF+j99Eu7c6+20H920C9yslcBsA1YCQr0Y9m4D/vqzwkKbeTIJyxiE/5sSE78acKH0TBSLurfPTkqoMqhO1AFzgEyAl2EeGZ24TvOVVeQ9gbX7+mYalXI4ZW9PnG4X3ZxNEcmbK+FmSug9t67eA5PIvnAckwM8vBBCOd6Ms860gpFJP4BQqBdl16H4VNp5z9QFWHfKNOu4zB5sDgK"
 }
